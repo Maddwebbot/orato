@@ -1,4 +1,4 @@
-Orato
+“Orato — Giving your text a voice… literally.”
 
 Orato is a smart mobile application designed to transform text and scanned content into speech using QR scanning and text-to-speech technology.
 
