@@ -4,7 +4,7 @@ Orato is a smart mobile application designed to transform text and scanned conte
 
 Built with Flutter, Orato focuses on accessibility, automation, and ease of use by converting digital content into audible output.
 
-============================================================================================
+===========================================================================
 
 Overview
 
@@ -24,12 +24,12 @@ Orato allows users to:
 
 - Orato currently uses the device’s built-in Text-to-Speech (TTS) engine.
 
-============================================================================================
+===========================================================================
 
 ⚠️ Note:
 A fully natural, AI-based human-like voice (such as Google Cloud TTS or ElevenLabs) has not yet been implemented. Future versions aim to integrate advanced neural voice synthesis for more realistic and expressive speech output.
 
-============================================================================================
+===========================================================================
 
 Key Features
 
@@ -43,7 +43,7 @@ Key Features
 
 - Lightweight and efficient performance
 
-============================================================================================
+===========================================================================
 
 Tech Stack
 
@@ -57,7 +57,7 @@ Tech Stack
 
 - Android SDK
 
-============================================================================================
+===========================================================================
 
 Future Improvements
 
