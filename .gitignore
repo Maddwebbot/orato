@@ -1,0 +1,46 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (optional)
+#.vscode/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+android/local.properties
+android/key.properties
+
+# iOS (only if used)
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Windows (if building desktop)
+**/windows/flutter/ephemeral/
